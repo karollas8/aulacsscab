@@ -1,0 +1,38 @@
+.pag-cad {
+    background-color: #ecf0f1;
+    background-size: cover;
+    padding: 20px 0;
+    text-align: left;
+  }
+  .pag-cad .input-padrao {
+    width: 400px;
+    display: inline-block;
+
+  }
+  .container {
+      float:left;
+      padding-left: 200px;
+      background-color: #ecf0f1;
+      height: auto;
+      width: ;
+  }
+  .btn-green {
+    color: white;
+    background-color: green;
+    margin: 20px 0 50px 0;
+    border: 0;
+    padding: 10px 20px;
+  }
+  .pag-cad .input-padrao {
+    display: block;
+    float: none;
+    margin: auto;
+  }
+  .img_cadastro {
+    background-color: #ecf0f1;
+      float: right;
+      height: 500px;
+      padding-right: 200px;
+
+
+  }
